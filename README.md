@@ -1,4 +1,4 @@
 # Exemplu-proiect
 "Proiect pentru testat GitHub"
-## Salutare tuturpr !!
+## Salutare tuturor !!
 Acesta este proiectul meu repository.
